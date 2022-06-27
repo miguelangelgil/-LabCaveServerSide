@@ -5,6 +5,7 @@
     "standard": "^17.0.0"
   },
   "scripts": {
-    "test": "standard && node index.js"
+    "test": "standard && node index.js",
+    "start":"node index.js"
   }
 }
